@@ -2,13 +2,13 @@ body{
   font-family: Arial, Helvetica, sans-serif;
 }
 h1{
-  color: red;
+  color: aqua;
   background-color: black;
   display: inline-block;
   padding: 20px;
 }
 p{
-  background-color: black;
-  color: white;
+  background-color: aqua;
+  color: black;
   padding: 20px;
 }
